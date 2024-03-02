@@ -1,6 +1,6 @@
 # Ecommerce Store
 
- ## Technology Which I Used
+ ## Technologies Used
    ***Backend***
    
  - Nodejs
